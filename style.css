@@ -1,25 +1,28 @@
 body {
-  background-color: #e6e6fa;
-  color: #191970;
+  background-color: #DEE1dd;
+  color: #000000;
   font-family: Arial, Verdana, sans-serif;
 }
 
 h1{
-  background-color: #191970;
-  color: #e6e6fa;
+  background-color: #c4cdc1;
+  color: #000000;
   line-height: 200%;
   font-family: Georgia, "Times New Roman", serif;
   text-shadow: 3px 3px 5px #cccccc;
 }
 
-h2{background-color: #aeaed4;
-color: #191970;
+h2{background-color: #c4cdc1;
+color: #000000;
 font-family: Georgia, "Times New Roman", serif;
 Text-align: center;
 }
 
 p{ font-size: .90em;
-text-indent: 3em;
+text-align: center;
+}
+
+p2{text-align: center;
 }
 
 ul{
@@ -28,7 +31,7 @@ font-weight: bold;
 
 nav{
 font-weight: bold;
-font-size: 1.25em;
+font-size: .75em;
 }
 
 #wrapper{margin-left: auto;
@@ -39,12 +42,19 @@ width: 80%;
 .feature {color: #c70000;
 }
 
-footer{color: #333333;
+p4{ text-align: center;
+}
+
+a{text-align: center;
+}
+
+footer{color: #000000;
   font-size: .75em;
   font-style: italic;
+  text-align: center;
 }
 
 nav h2{
-  background-color: #191970;
-  color: #e6e6fa;
+  background-color: #c4cdc1;
+  color: #000000;
 }
